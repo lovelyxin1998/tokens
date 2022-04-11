@@ -1,40 +1,178 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:59:10.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="k-lSrpgxAar_Z1z-I85y" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T12:31:36.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="fBL_Y09OoqyNa0lac_VQ" version="17.4.2" type="github">
   <diagram id="0DnSBS0c612ApqtmXOnl" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-2" value="文献综述" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-3" value="研究背景及研究意义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="120" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-4" value="研究方法及研究内容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-5" value="创新与不足" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="707" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-6" value="航运要素集聚及区域经济增长理论分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="278" y="190" width="271" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-7" value="沿海港口发展现状及航运要素集聚现状" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="276" y="360" width="276" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-8" value="航运要素集聚的空间溢出效应实证分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="274" y="555" width="279" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-9" value="结论及政策建议" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-10" value="绪论" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCwAq9MJnEZq_5oJvujX-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-11" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="100" as="sourcePoint" />
             <mxPoint x="760" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="jCwAq9MJnEZq_5oJvujX-10" target="jCwAq9MJnEZq_5oJvujX-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="100" as="sourcePoint" />
+            <mxPoint x="60" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-14" value="航运要素的概念及分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-15" value="航运要素集聚的理论分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-16" value="关于区域经济增长的理论分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-17" value="沿海港口概况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-18" value="沿海港航产业发展现状" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-19" value="航运要素集聚现状" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-20" value="模型构建与指标选取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-21" value="实证分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCwAq9MJnEZq_5oJvujX-6" target="jCwAq9MJnEZq_5oJvujX-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jCwAq9MJnEZq_5oJvujX-7" target="jCwAq9MJnEZq_5oJvujX-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCwAq9MJnEZq_5oJvujX-8" target="jCwAq9MJnEZq_5oJvujX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="sourcePoint" />
+            <mxPoint x="680" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="450" as="sourcePoint" />
+            <mxPoint x="640" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.375;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="630" as="sourcePoint" />
+            <mxPoint x="640" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.587;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.323;entryY=-0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.625;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="260" as="sourcePoint" />
+            <mxPoint x="260" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.596;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.432;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="100" as="sourcePoint" />
+            <mxPoint x="440" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="100" as="sourcePoint" />
+            <mxPoint x="610" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCwAq9MJnEZq_5oJvujX-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1" target="jCwAq9MJnEZq_5oJvujX-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="100" as="sourcePoint" />
+            <mxPoint x="440" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
